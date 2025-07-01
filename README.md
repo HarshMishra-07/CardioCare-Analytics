@@ -83,7 +83,7 @@ CardioCare Analytics
 ## Model Download
 
 The machine learning model file is too large for GitHub. Download it from:
-[Download Model](your-hosting-link)
+[Download Model](https://drive.google.com/drive/folders/1rj5VupoX2ZtGC77SIin9tTzP6d1t1It6?usp=sharing)
 
 Place the downloaded `random_forest_model.pkl` in the project root directory.
 
