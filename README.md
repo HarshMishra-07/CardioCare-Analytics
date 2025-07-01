@@ -80,6 +80,14 @@ CardioCare Analytics
 - `GET /test_model`: Test endpoint for model verification
 
 
+## Model Download
+
+The machine learning model file is too large for GitHub. Download it from:
+[Download Model](your-hosting-link)
+
+Place the downloaded `random_forest_model.pkl` in the project root directory.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
